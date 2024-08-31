@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: there was two choices. bubble and selection, but the case that sorted, execution time was fast
+
+sort2 uses: Merge sort
+
+How do you know?: First, it was fast, and the execution time did not increase dramatically as the size of the dataset increased.
+
+sort3 uses: Selection sort
+
+How do you know?: worst case and best case was super stable because weather if it's sorted of not, selection sort search almost same case.
